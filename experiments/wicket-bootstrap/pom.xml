@@ -92,7 +92,7 @@
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>font-awesome</artifactId>
-			<version>6.7.1</version> <!-- keep in sync with org.apache.causeway.lab.experiments.wktbs.WicketBootstrapApplicationConfiguration.FontAwesomeCssReferenceWkt.FONTAWESOME_RESOURCE -->
+			<version>6.7.2</version> <!-- keep in sync with org.apache.causeway.lab.experiments.wktbs.WicketBootstrapApplicationConfiguration.FontAwesomeCssReferenceWkt.FONTAWESOME_RESOURCE -->
 		</dependency>
 
 		<dependency>
